@@ -1,0 +1,35 @@
+# -*- mode: conf-toml -*-
+# ==========================================================
+#                     Dietrich Bollmann, Luebeck, 2022/12/02
+# 
+# cedict's default settings
+# ----------------------------------------------------------
+
+[repository]
+cedict-url        = "https://www.mdbg.net/chinese/export/cedict/cedict_1_0_ts_utf-8_mdbg.txt.gz"
+homepage-url      = "https://www.mdbg.net/chinese/dictionary?page=cedict"
+version-regex     = "Latest release: <strong>([^<]*)</strong>"
+
+[local]
+cedict-dir        = "~/.cedict"
+cedict-file       = "cedict.txt"
+cedict-gz-file    = "cedict.txt.gz"
+cedict-trie-traditional-file = "cedict_trie_traditional.py"
+cedict-trie-simplified-file  = "cedict_trie_simplified.py"
+number-of-backups = 3
+
+[defaults]
+#form              = "traditional"
+form              = "simplified"
+
+[formatting.columns]
+indent            =  2
+simplified        = 10
+traditional       = 12
+pinyin            = 14 
+senses            = 60
+
+# ==========================================================
+# ==========================================================
+
+# fin.
