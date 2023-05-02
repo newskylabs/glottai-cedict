@@ -1,0 +1,19 @@
+# -*- mode: conf-toml -*-
+# ==========================================================
+# cedict settings
+# ----------------------------------------------------------
+
+[local]
+#number-of-backups = 3
+
+[defaults]
+#form              = "traditional"
+#form              = "simplified"
+
+[formatting.columns]
+#indent            =  2
+#simplified        = 10
+#traditional       = 12
+#pinyin            = 14 
+#senses            = 60
+
