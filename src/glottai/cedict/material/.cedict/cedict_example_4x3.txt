@@ -1,0 +1,26 @@
+# CC-CEDICT
+# Community maintained free Chinese-English dictionary.
+# 
+# Example file with only 4x3 entries
+# 
+#! version=0
+#! subversion=0
+#! format=ts
+#! charset=UTF-8
+#! entries=12
+#! publisher=MDBG
+#! license=https://creativecommons.org/licenses/by-sa/4.0/
+#! date=2024-02-27T05:00:21Z
+#! time=1709010021
+學 学 [xue2] /to learn/to study/to imitate/science/-ology/
+習 习 [Xi2] /surname Xi/
+習 习 [xi2] /(bound form) to practice/to study/habit/custom/
+學習 学习 [xue2 xi2] /to learn/to study/
+大學 大学 [Da4 xue2] /the Great Learning, one of the Four Books 四書|四书[Si4 shu1] in Confucianism/
+大學 大学 [da4 xue2] /university/college/CL:所[suo3]/
+大學生 大学生 [da4 xue2 sheng1] /university student/college student/
+大學城 大学城 [da4 xue2 cheng2] /university city/
+大學部 大学部 [da4 xue2 bu4] /undergraduate course of study (Tw)/
+上海大學 上海大学 [Shang4 hai3 Da4 xue2] /Shanghai University/
+北京大學 北京大学 [Bei3 jing1 Da4 xue2] /Peking University/
+東京大學 东京大学 [Dong1 jing1 Da4 xue2] /Tokyo University, Japan/
